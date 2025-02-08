@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI and you encounter issues with your Android emulator or device.  It's not a specific error message but rather a category of problems. The underlying cause could be many things, including incorrect configurations, missing dependencies, or problems with the Android build system.
